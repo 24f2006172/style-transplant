@@ -1,0 +1,8 @@
+{
+  "prompt": "Islamic geometric tilework (Mamluk / Persian, 13th–16th century) illustrating the bias–variance tradeoff. Divide the composition into three horizontal sections: left with simple large geometric patterns (low complexity), center with balanced tessellation, right with highly intricate dense patterns (high complexity). Use strict symmetry, interlocking star polygons, flat colors (turquoise, deep blue, gold), no shading, no perspective, ornamental borders. No text, no modern elements, no gradients.",
+  "model": "Gemini Image Generation",
+  "concept": "Bias-Variance Tradeoff",
+  "tradition_name": "Islamic geometric art",
+  "tradition_period": "13th–16th century",
+  "tradition_approach": "Used symmetry, tessellation, flat colors, and interlocking geometry to represent increasing model complexity from simple to intricate patterns across the composition."
+}
