@@ -4,6 +4,5 @@
   "concept": "Bias-Variance Tradeoff",
   "tradition_name": "Islamic geometric art",
   "tradition_period": "13th–16th century",
-  "tradition_approach": "Used symmetry, tessellation, flat colors, and interlocking geometry to represent increasing model complexity from simple to intricate patterns across the composition.",
-  "metaphor": "Simple geometric patterns represent high bias, intricate dense patterns represent high variance, and the balanced central region represents the optimal tradeoff between bias and variance."
+  "tradition_approach": "Used symmetry, tessellation, flat colors, and interlocking geometry to represent increasing model complexity from simple to intricate patterns across the composition."
 }
